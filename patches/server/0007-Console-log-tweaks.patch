@@ -3,6 +3,9 @@ From: AlphaKR93 <alphakr93@gmail.com>
 Date: Fri, 10 Mar 2023 21:45:37 +0900
 Subject: [PATCH] Console log tweaks
 
+[Offine Warning Configuration Patch]
+Original by Irochi <me@irochi.moe>
+Licensed under the GPL 3.0
 
 diff --git a/src/main/java/io/papermc/paper/adventure/ChatProcessor.java b/src/main/java/io/papermc/paper/adventure/ChatProcessor.java
 index 309fe1162db195c7c3c94d785d6aa2700e42b08a..574ff6e244700fa2806e291caa4c5b7106b11c29 100644
